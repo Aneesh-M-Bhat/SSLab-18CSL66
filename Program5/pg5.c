@@ -40,7 +40,7 @@ int main()
             fprintf(fp2, "\nMOV R0,%s", arg1);
             fprintf(fp2, "\nMOV %s,R0", result);
         }
-    }
+    }   
     fclose(fp1);
     fclose(fp2);
 }

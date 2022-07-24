@@ -37,8 +37,7 @@ int main()
         case 3:
             exit(0);
         }
-printf("\n\nDo You Want To Continue If YES
-Press 1\nIf NO Press 0 : ");
+printf("\n\nDo You Want To Continue If YES Press 1\nIf NO Press 0 : ");
 scanf("%d",&YN);
     } while (YN == 1);
     return (0);
