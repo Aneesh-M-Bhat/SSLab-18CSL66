@@ -1,3 +1,4 @@
+/*Grammer-> any no. of a's & ending with b*/
 %{
 #include"y.tab.h"    
 %}

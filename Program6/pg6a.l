@@ -1,3 +1,4 @@
+/*Eliminate Comment Lines*/
 %{
 #include<stdio.h>
 int sl=0;

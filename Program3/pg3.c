@@ -1,3 +1,4 @@
+//LL(1) parser for A->aBa, B->bB|@ and parse: abba$
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>

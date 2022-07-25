@@ -1,3 +1,4 @@
+/*Recognize Valid Identifiers, Operators, Keywords*/
 %{
 #include<stdio.h>
 #include"y.tab.h"
