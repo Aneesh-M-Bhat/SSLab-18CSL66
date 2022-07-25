@@ -1,3 +1,5 @@
+package Program7;
+
 import java.util.Scanner;
 
 class pg7 {
@@ -73,7 +75,6 @@ class pg7 {
                 check = 0;
             } else
                 check++;
-
             if (check == numP)
                 break;
         }
