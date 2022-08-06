@@ -3,8 +3,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 class pg5 {
-    static int num = 0;
-
     static void check(String str) {
         int eq = str.indexOf("=");
         String lhs = str.substring(0, eq);
